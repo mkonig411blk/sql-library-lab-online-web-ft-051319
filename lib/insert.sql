@@ -14,5 +14,8 @@ INSERT INTO characters (name, motto, species, author_id, series_id ) VALUES ("ha
 INSERT INTO characters (name, motto, species, author_id, series_id ) VALUES ("harry","run","human",1,1);
 INSERT INTO characters (name, motto, species, author_id, series_id ) VALUES ("harry","run","human",1,1);
 INSERT INTO characters (name, motto, species, author_id, series_id ) VALUES ("harry","run","human",1,1);
-INSERT INTO characters (name, motto, species, author_id, series_id ) VALUES ("harry","run","human",2,2);
+INSERT INTO characters (name, motto, species, author_id, series_id ) VALUES ("danny","run","human",2,2);
+INSERT INTO characters (name, motto, species, author_id, series_id ) VALUES ("danny","run","human",2,2);
+INSERT INTO characters (name, motto, species, author_id, series_id ) VALUES ("danny","run","human",2,2);
+INSERT INTO characters (name, motto, species, author_id, series_id ) VALUES ("danny","run","human",2,2);
 
