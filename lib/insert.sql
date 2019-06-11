@@ -4,4 +4,4 @@ INSERT INTO subgenres (name) VALUES ("Text");
 INSERT INTO subgenres (name) VALUES ("Text2");
 INSERT INTO authors (name) VALUES ("Text2");
 INSERT INTO authors (name) VALUES ("Text2");
-INSERT INTO books (name) VALUES ("Text2");
+INSERT INTO books (title, year, series_id) VALUES ("Text2", 1992, 1);
