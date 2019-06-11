@@ -19,3 +19,4 @@ INSERT INTO characters (name, motto, species, author_id, series_id ) VALUES ("da
 INSERT INTO characters (name, motto, species, author_id, series_id ) VALUES ("danny","run","human",2,2);
 INSERT INTO characters (name, motto, species, author_id, series_id ) VALUES ("danny","run","human",2,2);
 
+
